@@ -17,3 +17,7 @@ end
 def pop_with_args(dog_breeds)
   last_two = dog_breeds.pop(2)
 end
+
+def using_shift(my_favorite_cities)
+  im_so_over_this_city = my_favorite_cities.shift
+end
