@@ -12,6 +12,6 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
 
 def using_pop(continents)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  last_element = continents.pop
+  continents.pop
 end
-continents
+
