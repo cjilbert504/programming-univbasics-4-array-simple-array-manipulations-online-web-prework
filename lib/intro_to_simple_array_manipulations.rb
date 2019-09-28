@@ -41,3 +41,7 @@ end
 def using_flatten(instruments)
   instruments.flatten
 end
+
+def using_delete(instructors,"Steven")
+  array.delete("Steven")
+end
