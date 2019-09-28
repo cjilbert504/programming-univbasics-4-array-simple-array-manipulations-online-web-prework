@@ -13,3 +13,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
 def using_pop(continents)
   last_element = continents.pop
 end
+
+def pop_with_args(dog_breeds)
+  dog_breeds.pop(a, b)
+end
