@@ -15,5 +15,3 @@ def using_pop(continents)
   last_element = continents.pop
   continents
 end
-
-
